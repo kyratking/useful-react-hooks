@@ -18,7 +18,7 @@ To start using the hooks in this repository, you can simply clone the repository
 git clone https://github.com/kyratking/useful-react-hooks.git
 ```
 
-2. **Copy and Use** (if necessary):
+2. **Copy and Use**:
 
 Just copy and paste the hooks into your React codebase and install any dependencies if necessary
 
